@@ -80,7 +80,7 @@
     "vmWindowsOSVersion": "2012-R2-Datacenter",
     "vmStorageAccountType": "Standard_LRS",
     "vmStorageAccountContainerName": "vhds",
-    "vmName": "OctopusDeploy",
+    "vmName": "OctopusDeploy3_11_1",
     "vmSize": "Standard_D2",
     "networkNicName": "OctopusDeployNIC",
     "networkAddressPrefix": "10.0.0.0/16",
@@ -115,6 +115,7 @@
     },
     {
       "apiVersion": "2015-05-01-preview",
+
       "type": "Microsoft.Network/publicIPAddresses",
       "name": "[variables('networkPublicIPAddressName')]",
       "location": "[resourceGroup().location]",
