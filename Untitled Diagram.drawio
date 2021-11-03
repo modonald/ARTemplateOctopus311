@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-11-03T12:09:45.654Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.54 Safari/537.36" etag="-w_jolBHbGUb_lwu63Kt" version="15.5.6" type="github">
+<mxfile host="app.diagrams.net" modified="2021-11-03T12:10:43.658Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.54 Safari/537.36" etag="eAAb58fBbu74h5jrXjOA" version="15.5.6" type="github">
   <diagram id="bGe6-sFl35TY6f6FGDN2" name="Page-1">
     <mxGraphModel dx="1852" dy="682" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -61,6 +61,9 @@
         <mxCell id="p5G7FJhulPP3gTl2UgnR-51" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="p5G7FJhulPP3gTl2UgnR-29" target="p5G7FJhulPP3gTl2UgnR-26">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="p5G7FJhulPP3gTl2UgnR-55" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="p5G7FJhulPP3gTl2UgnR-29" target="p5G7FJhulPP3gTl2UgnR-52">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="p5G7FJhulPP3gTl2UgnR-29" value="" style="shape=mxgraph.gcp2.doubleRect;strokeColor=#dddddd;shadow=1;strokeWidth=1;" vertex="1" parent="1">
           <mxGeometry x="660" y="226" width="168" height="68" as="geometry" />
         </mxCell>
@@ -82,10 +85,10 @@
           <mxGeometry x="94" y="360" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="p5G7FJhulPP3gTl2UgnR-49" value="ArenaToD365API&lt;br&gt;ApplicationInsights" style="whiteSpace=wrap;html=1;verticalAlign=top;labelBackgroundColor=white;" vertex="1" parent="1">
-          <mxGeometry x="640" y="481.5" width="192" height="60" as="geometry" />
+          <mxGeometry x="647" y="481.5" width="192" height="60" as="geometry" />
         </mxCell>
         <mxCell id="p5G7FJhulPP3gTl2UgnR-52" value="" style="aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/azure2/databases/SQL_Database.svg;" vertex="1" parent="1">
-          <mxGeometry x="730" y="70" width="48" height="64" as="geometry" />
+          <mxGeometry x="720" y="70" width="48" height="64" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
